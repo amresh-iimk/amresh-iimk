@@ -3,6 +3,6 @@
 - 👯 I’m looking to collaborate on any challengin and new projects.
 - 🤔 I’m looking for help with certifications on Python and SAS.
 - 💬 Ask me about Portfolio & Risk Management and about Model Developments in Banking domain.
-- 📫 How to reach me: drop me an email at - amresh-iimk@gmail.com
+- 📫 How to reach me: drop me an email at - amresh.iimk@gmail.com
 - 😄 Pronouns: ak
 - ⚡ Fun fact: We are merely hanging from this earh, that too upside down!
