@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on a simlation of banking portfolio.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on any challengin and new projects.
+- 👯 I’m looking to collaborate on any challenging and new projects.
 - 🤔 I’m looking for help with certifications on Python and SAS.
 - 💬 Ask me about Portfolio & Risk Management and about Model Developments in Banking domain.
 - 📫 How to reach me: drop me an email at - amresh.iimk@gmail.com
-- 😄 Pronouns: ak
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: We are merely hanging from this earh, that too upside down!
